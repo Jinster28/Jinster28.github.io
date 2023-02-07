@@ -1,3 +1,3 @@
-# Jinster28.github.io
+Jinster28.github.io
 
-This is a page to learn web development
+This is a page to document my programming journey
